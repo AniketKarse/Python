@@ -1,0 +1,1 @@
+print("\tGuessing in the range of {} to {} ".format(low ,high))
